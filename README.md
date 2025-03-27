@@ -16,9 +16,11 @@ The projects highlighted in this portfolio demonstrate my expertise in:
 - Browse the repository for potential updates and additional insights.  
 
 ## Skills & Tools  
-- **Project Management:** Agile, Hybrid, Traditional  
+- **Project Management Methodologies:** Agile, Hybrid, Traditional  
 - **Leadership & Operations:** Team Management, Logistics, Strategic Planning  
-- **Data Analysis & Reporting:** Excel, SQL, Risk Assessments  
+- **Microsoft Office Suite:** Proficient in Word, Excel, and PowerPoint for project planning, reporting, and presentations  
+- **Resource Management:** Managing personnel, equipment, and multi-million-dollar assets with limited digital tools  
+- **Risk Mitigation & Problem Solving:** Identifying, assessing, and managing risks on the ground, ensuring successful project outcomes with minimal resources  
 
 ## Contact  
 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/austin-witthuhn/)** or reach out via email at **austin.witthuhn@gmail.com** if you'd like to discuss my experience or potential opportunities.  
