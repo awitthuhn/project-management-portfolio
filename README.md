@@ -12,7 +12,7 @@ The projects highlighted in this portfolio demonstrate my expertise in:
 - **Process Improvement** – Developing SOPs to enhance efficiency and effectiveness.  
 
 ## How to Use This Repository  
-- **[Download the Portfolio (PDF)](./Project_Portfolio.pdf)** – A detailed document outlining project descriptions, objectives, execution strategies, and results.  
+- **[Download the Portfolio (PDF)](./project_portfolio.pdf)** or View – A detailed document outlining project descriptions, objectives, execution strategies, and results.  
 - Browse the repository for potential updates and additional insights.  
 
 ## Skills & Tools  
